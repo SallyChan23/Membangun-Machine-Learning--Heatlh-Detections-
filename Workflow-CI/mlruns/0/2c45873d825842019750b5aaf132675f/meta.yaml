@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jeselyn/Documents/Stupen/Membangun-Machine-Learning--Heatlh-Detections-/Workflow-CI/mlruns/0/2c45873d825842019750b5aaf132675f/artifacts
+end_time: 1750692777477
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2c45873d825842019750b5aaf132675f
+run_name: monumental-fox-788
+run_uuid: 2c45873d825842019750b5aaf132675f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750692774442
+status: 4
+tags: []
+user_id: jeselyn

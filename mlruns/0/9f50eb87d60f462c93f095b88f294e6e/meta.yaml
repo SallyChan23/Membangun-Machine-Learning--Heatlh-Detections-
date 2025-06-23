@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/9f50eb87d60f462c93f095b88f294e6e/artifacts
+end_time: 1750684074349
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9f50eb87d60f462c93f095b88f294e6e
+run_name: debonair-stork-969
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750684055535
+status: 3
+tags: []
+user_id: jeselyn

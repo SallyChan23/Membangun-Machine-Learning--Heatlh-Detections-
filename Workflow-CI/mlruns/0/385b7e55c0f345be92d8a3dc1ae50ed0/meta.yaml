@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/jeselyn/Documents/Stupen/Membangun-Machine-Learning--Heatlh-Detections-/Workflow-CI/mlruns/0/385b7e55c0f345be92d8a3dc1ae50ed0/artifacts
+end_time: 1750690223330
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 385b7e55c0f345be92d8a3dc1ae50ed0
+run_name: abundant-lamb-580
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750690216493
+status: 3
+tags: []
+user_id: jeselyn

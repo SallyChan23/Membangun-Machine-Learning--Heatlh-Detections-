@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8181ccf035204bcfb95ea7ce120adcce/artifacts
+end_time: 1750683128152
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8181ccf035204bcfb95ea7ce120adcce
+run_name: bouncy-bat-412
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750683108987
+status: 3
+tags: []
+user_id: jeselyn

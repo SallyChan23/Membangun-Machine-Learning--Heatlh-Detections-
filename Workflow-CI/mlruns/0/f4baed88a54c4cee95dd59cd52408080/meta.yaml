@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jeselyn/Documents/Stupen/Membangun-Machine-Learning--Heatlh-Detections-/Workflow-CI/mlruns/0/f4baed88a54c4cee95dd59cd52408080/artifacts
+end_time: 1750692905228
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f4baed88a54c4cee95dd59cd52408080
+run_name: bittersweet-carp-605
+run_uuid: f4baed88a54c4cee95dd59cd52408080
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750692898059
+status: 3
+tags: []
+user_id: jeselyn

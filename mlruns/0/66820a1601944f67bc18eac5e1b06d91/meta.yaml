@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/66820a1601944f67bc18eac5e1b06d91/artifacts
+end_time: 1750679784608
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 66820a1601944f67bc18eac5e1b06d91
+run_name: mercurial-shoat-785
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750679766129
+status: 3
+tags: []
+user_id: jeselyn

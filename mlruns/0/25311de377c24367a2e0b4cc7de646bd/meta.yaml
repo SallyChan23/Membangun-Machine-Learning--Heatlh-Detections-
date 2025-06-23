@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/25311de377c24367a2e0b4cc7de646bd/artifacts
+end_time: 1750679966501
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 25311de377c24367a2e0b4cc7de646bd
+run_name: exultant-stork-689
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750679963313
+status: 3
+tags: []
+user_id: jeselyn

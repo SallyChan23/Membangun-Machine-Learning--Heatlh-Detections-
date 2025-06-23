@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8b0e6c0241474c22b54e6237e956f9e7/artifacts
+end_time: 1750679963311
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8b0e6c0241474c22b54e6237e956f9e7
+run_name: luminous-toad-966
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750679961494
+status: 3
+tags: []
+user_id: jeselyn

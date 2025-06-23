@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8503a84350584747a0240a1e6d053ba2/artifacts
+end_time: 1750679970124
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8503a84350584747a0240a1e6d053ba2
+run_name: gaudy-sloth-395
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750679966503
+status: 3
+tags: []
+user_id: jeselyn

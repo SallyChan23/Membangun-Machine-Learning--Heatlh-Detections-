@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/14bf33dfc9274e4498555fd9b151a114/artifacts
+end_time: 1750680455777
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 14bf33dfc9274e4498555fd9b151a114
+run_name: popular-stoat-857
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750680452962
+status: 3
+tags: []
+user_id: jeselyn

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/273ad5987ad24b53b923b84ba3ade8b7/artifacts
+end_time: 1750682926239
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 273ad5987ad24b53b923b84ba3ade8b7
+run_name: gaudy-pig-67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750682925564
+status: 4
+tags: []
+user_id: jeselyn

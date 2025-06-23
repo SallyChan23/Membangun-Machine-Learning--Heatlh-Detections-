@@ -1,0 +1,14 @@
+digest: dc4d60b5
+name: dataset
+profile: '{"num_rows": 44400, "num_elements": 444000}'
+schema: '{"mlflow_colspec": [{"type": "double", "name": "Age", "required": true},
+  {"type": "double", "name": "Gender", "required": true}, {"type": "double", "name":
+  "Blood Type", "required": true}, {"type": "double", "name": "Doctor", "required":
+  true}, {"type": "double", "name": "Hospital", "required": true}, {"type": "double",
+  "name": "Insurance Provider", "required": true}, {"type": "double", "name": "Billing
+  Amount", "required": true}, {"type": "double", "name": "Admission Type", "required":
+  true}, {"type": "double", "name": "Medication", "required": true}, {"type": "string",
+  "name": "Test Results", "required": true}]}'
+source: '{"tags": {"mlflow.user": "jeselyn", "mlflow.source.name": "Membangun_model/modelling.py",
+  "mlflow.source.type": "LOCAL", "mlflow.source.git.commit": "c1e006b3522099d9ea2727dbfcdf6edf6116de54"}}'
+source_type: code

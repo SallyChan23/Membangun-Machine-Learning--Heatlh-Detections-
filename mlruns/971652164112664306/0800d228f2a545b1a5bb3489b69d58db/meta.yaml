@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/971652164112664306/0800d228f2a545b1a5bb3489b69d58db/artifacts
+end_time: 1750684744947
+entry_point_name: ''
+experiment_id: '971652164112664306'
+lifecycle_stage: active
+run_id: 0800d228f2a545b1a5bb3489b69d58db
+run_name: stately-swan-949
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750684730697
+status: 3
+tags: []
+user_id: jeselyn

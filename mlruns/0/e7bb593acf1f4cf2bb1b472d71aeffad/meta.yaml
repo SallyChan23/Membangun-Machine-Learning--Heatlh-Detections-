@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e7bb593acf1f4cf2bb1b472d71aeffad/artifacts
+end_time: 1750683322698
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e7bb593acf1f4cf2bb1b472d71aeffad
+run_name: luxuriant-carp-475
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750683302595
+status: 3
+tags: []
+user_id: jeselyn
