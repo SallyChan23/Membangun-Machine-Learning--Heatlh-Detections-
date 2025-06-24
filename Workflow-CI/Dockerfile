@@ -1,11 +1,15 @@
 FROM python:3.12-slim
+WORKDIR /app
 
 RUN apt-get update && apt-get install -y --no-install-recommends \
-    build-essential curl ca-certificates \
+    build-essential \
     && rm -rf /var/lib/apt/lists/*
 
-COPY mlflow_model /opt/mlflow_model
+COPY requirements.txt ./requirements.txt
+RUN pip install --no-cache-dir -r requirements.txt
 
-RUN pip install mlflow
+COPY . .
 
-CMD ["mlflow", "models", "serve", "-m", "/opt/mlflow_model", "-h", "0.0.0.0", "-p", "5000"]
+COPY mlflow_model /opt/ml/model
+
+CMD ["python3", "inference.py"]
