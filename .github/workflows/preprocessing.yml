@@ -27,9 +27,9 @@ jobs:
 
       - name: Run automate script
         run: python preprocessing/automate_Jeselyn.py
-            - name: Upload preprocessed data
+
+      - name: Upload preprocessed data
         uses: actions/upload-artifact@v3
         with:
           name: preprocessed_csv
           path: preprocessing/healthcare_preprocessed.csv
-
