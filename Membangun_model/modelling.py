@@ -12,6 +12,7 @@ mlflow.set_experiment("skilled_experiment")
 
 X_train, X_test, y_train, y_test = load_and_preprocess("preprocessing/healthcare_preprocessed.csv")
 
+mlflow.sklearn.autolog()
 with mlflow.start_run():
     model = RandomForestClassifier()
     model.fit(X_train, y_train)
@@ -21,12 +22,4 @@ with mlflow.start_run():
     prec = precision_score(y_test, preds, average="macro", zero_division=0)
     rec = recall_score(y_test, preds, average="macro", zero_division=0)
     f1 = f1_score(y_test, preds, average="macro", zero_division=0)
-
-
-    mlflow.log_param("model_type", "RandomForest")
-    mlflow.log_metric("accuracy", acc)
-    mlflow.log_metric("precision", prec)
-    mlflow.log_metric("recall", rec)
-    mlflow.log_metric("f1_score", f1)
-
     print(f"Akurasi: {acc:.3f}")
